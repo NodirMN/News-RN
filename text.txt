@@ -1,0 +1,2 @@
+  .get("https://5c3755177820ff0014d92711.mockapi.io/articles")
+  "https://images.pexels.com/photos/12800830/pexels-photo-12800830.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
